@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "srrlQkET9st5kq16iuapZ7YNscdIpDY+ylGnOuVtrnY=",
+  "Source": "WebApplicationLogging",
+  "BasePath": "_content/WebApplicationLogging",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
